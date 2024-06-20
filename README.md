@@ -1,16 +1,7 @@
-# core_flutter_exam
+<h1 align = "center">
+ Student Details
+</h1>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align = "center">
+  <img src=![1](https://github.com/RaviNarayanBehera/core_flutter_exam/assets/148530184/8844e453-f5c2-4fee-aa9c-9e152de22cd7)" height=65%  width=22%>
+</h1>
